@@ -11,7 +11,7 @@ shinyUI(navbarPage("Capstone SwiftKey Word Predictive Model",
                         h5(p('The next word will be generated at the word prediction output panel.')),
                         p(strong("Author: "), "Tan Chee Liang"),
                         p(strong("Date: "), "August 2015"),
-                        p(strong("Slide deck:"), a(href="http://rpubs.com/kenntcl/dscapp", "RPubs", target="_blank"))
+                        p(strong("Slide deck:"), a(href="http://rpubs.com/kenntcl/dscapp", "R Pubs", target="_blank"))
                 )),
                 column(3,
                 br(),
